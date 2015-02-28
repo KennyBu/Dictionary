@@ -1,0 +1,14 @@
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\Dictionary\DictionaryTests\bin\Debug\DictionaryTests.dll
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\Dictionary\DictionaryTests\bin\Debug\DictionaryTests.pdb
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\Dictionary\DictionaryTests\bin\Debug\DictionaryConsole.exe
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\Dictionary\DictionaryTests\bin\Debug\DictionaryConsole.pdb
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\Dictionary\DictionaryTests\obj\Debug\DictionaryTests.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\Dictionary\DictionaryTests\obj\Debug\DictionaryTests.dll
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\Dictionary\DictionaryTests\obj\Debug\DictionaryTests.pdb
+C:\Users\Ken\Documents\GitHub\Dictionary\DictionaryTests\bin\Debug\DictionaryTests.dll
+C:\Users\Ken\Documents\GitHub\Dictionary\DictionaryTests\bin\Debug\DictionaryTests.pdb
+C:\Users\Ken\Documents\GitHub\Dictionary\DictionaryTests\bin\Debug\DictionaryConsole.exe
+C:\Users\Ken\Documents\GitHub\Dictionary\DictionaryTests\bin\Debug\DictionaryConsole.pdb
+C:\Users\Ken\Documents\GitHub\Dictionary\DictionaryTests\obj\Debug\DictionaryTests.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Documents\GitHub\Dictionary\DictionaryTests\obj\Debug\DictionaryTests.dll
+C:\Users\Ken\Documents\GitHub\Dictionary\DictionaryTests\obj\Debug\DictionaryTests.pdb

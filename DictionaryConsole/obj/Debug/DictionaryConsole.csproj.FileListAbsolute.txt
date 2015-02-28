@@ -1,0 +1,10 @@
+c:\users\ken\documents\visual studio 2013\Projects\Dictionary\DictionaryConsole\bin\Debug\DictionaryConsole.exe.config
+c:\users\ken\documents\visual studio 2013\Projects\Dictionary\DictionaryConsole\bin\Debug\DictionaryConsole.exe
+c:\users\ken\documents\visual studio 2013\Projects\Dictionary\DictionaryConsole\bin\Debug\DictionaryConsole.pdb
+c:\users\ken\documents\visual studio 2013\Projects\Dictionary\DictionaryConsole\obj\Debug\DictionaryConsole.exe
+c:\users\ken\documents\visual studio 2013\Projects\Dictionary\DictionaryConsole\obj\Debug\DictionaryConsole.pdb
+C:\Users\Ken\Documents\GitHub\Dictionary\DictionaryConsole\bin\Debug\DictionaryConsole.exe.config
+C:\Users\Ken\Documents\GitHub\Dictionary\DictionaryConsole\obj\Debug\DictionaryConsole.exe
+C:\Users\Ken\Documents\GitHub\Dictionary\DictionaryConsole\obj\Debug\DictionaryConsole.pdb
+C:\Users\Ken\Documents\GitHub\Dictionary\DictionaryConsole\bin\Debug\DictionaryConsole.exe
+C:\Users\Ken\Documents\GitHub\Dictionary\DictionaryConsole\bin\Debug\DictionaryConsole.pdb
